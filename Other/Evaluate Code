@@ -1,0 +1,1 @@
+javascript:var a=prompt("Write the javascript code that you want to evaluate.");var b=document.createElement("iframe");b.style.display="none";b.setAttribute("src",a);document.body.appendChild(b);
